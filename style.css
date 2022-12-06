@@ -1,0 +1,23 @@
+/*
+Nama        : William Chrisandy
+NIM         : 2301862941
+Kelas       : LA03
+Mata Kuliah : MOBI6012001 - Web Design
+Nama Dosen  : D5022 - Ramot Lubis, S.T., M.Sc.
+*/
+
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    word-wrap: break-word;
+    text-align: center;
+}
+
+#clock-canvas
+{
+    border: 1px solid black;
+    margin: 1vh 1vw;
+}
